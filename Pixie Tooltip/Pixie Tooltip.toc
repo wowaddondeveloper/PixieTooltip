@@ -1,4 +1,4 @@
-## Interface: 120000, 120100, 50504, 16001
+## Interface: 120105, 50504, 20506, 11509, 16001
 ## Title: Pixie Tooltip
 ## Notes: Test addon for the Pixie Tooltip module. Esc > Options > AddOns > Pixie Tooltip, or type /ptt.
 ## Author: PiXiE

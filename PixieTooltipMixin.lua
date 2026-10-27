@@ -4,7 +4,7 @@
                   long lists scroll, and Refresh redraws it live. No libraries, no globals.
                   This file is a mixin: the "Mixin" in the file name marks it, so the variable is simply
                   PixieTooltip (private.PixieTooltip), without the suffix.
-     Clients:     Retail, Mists of Pandaria Classic, Classic Era, Anniversary (tested on Retail; the Classic clients not yet).
+     Clients:     Retail, Mists of Pandaria Classic, Classic Era, Anniversary, Forever (tested on all four; Forever not yet).
 
      Naming:      Add... adds content, Set... changes the look, On... reacts to the mouse.
      Targets:     tip (the whole tooltip and its body), header (fixed top), footer (fixed bottom, only when

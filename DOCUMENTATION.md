@@ -37,7 +37,7 @@ use it never interfere.
 
 **6. Clients**
 
-Retail, Mists of Pandaria Classic, Classic Era, Anniversary.
+Retail (Midnight), Mists of Pandaria Classic, Burning Crusade Classic Anniversary, Classic Era and WoW: Forever.
 
 **Contents**
 

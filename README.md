@@ -61,7 +61,7 @@ PixieTooltip:Refresh()
 
 ## Tested in game
 
-Tested in game on Retail: every point below works. The Classic clients are not tested yet; check them the same way (`/ptt` in the test addon):
+Tested in game on Retail (Midnight), Mists of Pandaria Classic, Burning Crusade Classic Anniversary and Classic Era: every point below works. WoW: Forever (16001) is not tested yet; check it the same way (`/ptt` in the test addon):
 
 1. `/ptt` opens the Pixie Tooltip page in the AddOns options; it lists all 24 examples under Simple, Advanced
    and Expert, and hovering a line opens its example at a fixed spot on the right of the page.

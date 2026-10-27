@@ -1,0 +1,8 @@
+## Interface: 120000, 120100, 50504, 16001
+## Title: Pixie Tooltip
+## Notes: Test addon for the Pixie Tooltip module. Esc > Options > AddOns > Pixie Tooltip, or type /ptt.
+## Author: PiXiE
+## Version: 0.1.0
+## Category: _PiXiE
+PixieTooltipMixin.lua
+Example.lua
